@@ -1,0 +1,7 @@
+run,checkpoint,split,records,N,S,D,I,wer_percent,multi_chunk_records,chunks_at_token_limit,mean_token_loss
+C_qwen08_wer_32x16_s800,best,dev-other,2864,50948,5563,661,1040,14.257674491638534,7,14,
+C_qwen08_wer_32x16_s800,last,dev-other,2864,50948,5561,680,1010,14.2321582790296,7,14,
+C_qwen08_wer_32x16_s800,best,test-clean,2620,52576,3199,488,993,8.901399878271455,9,22,
+C_qwen08_wer_32x16_s800,last,test-clean,2620,52576,3165,488,880,8.621804625684723,9,21,
+C_qwen08_wer_32x16_s800,best,test-other,2939,52343,5804,789,937,14.385877767800853,7,15,
+C_qwen08_wer_32x16_s800,last,test-other,2939,52343,5882,716,951,14.422176795369008,7,14,

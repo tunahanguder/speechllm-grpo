@@ -1,0 +1,4 @@
+run,checkpoint,split,records,N,S,D,I,wer_percent,multi_chunk_records,chunks_at_token_limit,mean_token_loss
+F_qwen08_em40_wer60_oneerror010_s32_g16_s810,last,dev-other,2864,50948,5558,680,1012,14.230195493444295,7,14,
+F_qwen08_em40_wer60_oneerror010_s32_g16_s810,last,test-clean,2620,52576,3200,494,980,8.889987827145466,9,23,
+F_qwen08_em40_wer60_oneerror010_s32_g16_s810,last,test-other,2939,52343,5880,714,950,14.412624419693177,7,14,

@@ -1,0 +1,7 @@
+run,checkpoint,split,records,N,S,D,I,wer_percent,multi_chunk_records,chunks_at_token_limit,mean_token_loss
+Bprime_qwen08_identity_train960,best,dev-other,2864,50948,6138,574,1294,15.714061395933108,7,16,
+Bprime_qwen08_identity_train960,last,dev-other,2864,50948,5984,805,1165,15.61199654549737,7,18,
+Bprime_qwen08_identity_train960,best,test-clean,2620,52576,3582,295,1186,9.629869141813755,9,23,
+Bprime_qwen08_identity_train960,last,test-clean,2620,52576,3431,524,1254,9.907562385879489,9,31,
+Bprime_qwen08_identity_train960,best,test-other,2939,52343,6168,821,1047,15.352578186194906,7,9,
+Bprime_qwen08_identity_train960,last,test-other,2939,52343,6119,927,1285,15.916168351068912,7,15,

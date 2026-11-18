@@ -1,0 +1,4 @@
+run,checkpoint,split,records,N,S,D,I,wer_percent,multi_chunk_records,chunks_at_token_limit,mean_token_loss
+D_qwen08_em40_wer60_casefold_s32_g16_train960,best,dev-other,2864,50948,5493,742,983,14.16738635471461,7,14,
+D_qwen08_em40_wer60_casefold_s32_g16_train960,best,test-clean,2620,52576,3167,514,879,8.673158855751673,9,22,
+D_qwen08_em40_wer60_casefold_s32_g16_train960,best,test-other,2939,52343,5890,717,990,14.513879601856981,7,15,
