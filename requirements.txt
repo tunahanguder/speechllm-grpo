@@ -1,0 +1,11 @@
+# PyTorch: deney kaydı 2.14.1+cu130. Colab CUDA ortamına uygun sürümü ayrıca kullanın.
+# Qwen3.5 ve GRPO koşularının günlüklerinden.
+transformers==5.22.1
+peft==0.21.2
+
+# Ses okuma, model indirme, Vicuna tokenizer ve sonuç analizi.
+soundfile
+huggingface-hub
+sentencepiece
+pandas
+numpy
